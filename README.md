@@ -1,4 +1,4 @@
-# Home Credit Competition
+# Home Credit MiniProject
 In this work, I explore the loan repayment of Home Credit company. The goal is to predict whether the clients repay their loan or not. Here, I used the data provided by the company to make that predictions. This problem is categorized as a supervised classification machine learning problem:
 
 Supervised: The labels are included in the training data and the goal is to train a model to learn to predict the labels from the features
